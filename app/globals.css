@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#screen::-webkit-scrollbar,
+#keyboard::-webkit-scrollbar {
+  width: 0;
+}
